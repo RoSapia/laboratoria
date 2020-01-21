@@ -10,3 +10,4 @@ let custoTotal = (quantIngresso * custoIngresso);
 let receita =  (custoTotal - (custoTotal*(custoImposto/100)));
 
 document.write("A receita é $" + receita);
+// Teste
